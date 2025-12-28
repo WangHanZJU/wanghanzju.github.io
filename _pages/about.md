@@ -28,7 +28,9 @@ My research interests primarily focus on **NLP** and **Multi-Modal Generative AI
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/aoe.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Benchmarking Long-Form Speech Generation with Rich Scenarios and Comprehensive Evaluation](images/aoe.pdf)
@@ -39,7 +41,8 @@ My research interests primarily focus on **NLP** and **Multi-Modal Generative AI
 </div>
 </div>
 
-- [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](ACM MM 2025) Changhao Pan, Wenxiang Guo, Yu Zhang, Zhiyuan Zhu, Zhetao Chen, **Han Wang**, Zhou Zhao, **CVPR 2020**
+- [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference] Changhao Pan, Wenxiang Guo, Yu Zhang, Zhiyuan Zhu, Zhetao Chen, **Han Wang**, Zhou Zhao **ACM MM 2025**
+- [MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations] Wenxiang Guo, Changhao Pan, Zhiyuan Zhu, Xintong Hu, Yu Zhang, Li Tang, Rui Yang, **Han Wang**, et al. **NeurIPS 2025**
 
 # 🎖 Honors and Awards
 - *2024* First-class Scholarship in Zhejiang University
