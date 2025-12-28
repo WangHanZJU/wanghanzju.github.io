@@ -27,13 +27,22 @@ My research interests primarily focus on **NLP** and **Multi-Modal Generative AI
 - *2026.1* &nbsp;🎉🎉 Started my internship at Luna Lab as a Multimodel Language Model reasearcher!
 
 # 📝 Publications 
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/aoe.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/aoe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Benchmarking Long-Form Speech Generation with Rich Scenarios and Comprehensive Evaluation](images/aoe.pdf)
+[UFMSAVocoder: a Unified Flow-Matching Spatial Audio Vocoder](images/aoe.png)
+
+#Zhiyuan Zhu, **#Han Wang**, et al.
+
+- a univeral vocoder using flow-matching method for spatial audio generation, achieving superior performance in both ambisonics and binaural audio generation
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/aoe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Benchmarking Long-Form Speech Generation with Rich Scenarios and Comprehensive Evaluation](images/aoe.png)
 
 #Changhao Pan, #Rui Yang, **#Han Wang**, et al.
 
