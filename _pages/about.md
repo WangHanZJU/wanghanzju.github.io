@@ -19,8 +19,9 @@ redirect_from:
 
 I am an undergraduate student at **[Turing Class](http://www.cs.zju.edu.cn/turingclass_en/)**, **[Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)**, **[Zhejiang University](https://www.zju.edu.cn/english/)**, majoring in Artificial Intelligence. Currently, I work in the **Audio Research Team** at Zhejiang University, under the supervision of **[Prof. Zhou Zhao](https://person.zju.edu.cn/en/zhaozhou)**.
 
-My research interests primarily focus on **NLP** and **Multi-Modal Generative AI**, specifically in **Speech** and **Spatial Audio**. I have two papers submitted to **[ACL 2026](https://2026.aclweb.org/)**. At the same time, I am eagerly looking forward to exploring other interesting research fields in AI.
+My research interests lie at the intersection of **NLP** and **Multi-Modal Generative AI**, with a particular focus on **Speech Synthesis** and **Spatial Audio Generation**. My work aims to build immersive auditory experiences through advanced generative modeling (e.g., Flow Matching). Currently, I have several papers published or under review at top-tier venues including **NeurIPS,** **ACM MM**, and **ACL**.
 
+I am always open to potential collaborations and seeking opportunities to push the boundaries of AI. Contact me for any exciting projects or discussions!
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 Submitted two papers to **[ACL 2026](https://2026.aclweb.org/)**
