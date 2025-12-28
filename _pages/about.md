@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at **[Turing Class](http://www.cs.zju.edu.cn/turingclass_en/)**, **[Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)**, **[Zhejiang University](https://www.zju.edu.cn/english/)**, majoring in Artificial Intelligence. Currently, I work in the **[Audio Research Team]** at Zhejiang University, under the supervision of **[Prof. Zhou Zhao](https://person.zju.edu.cn/en/zhaozhou)**.
+I am an undergraduate student at **[Turing Class](http://www.cs.zju.edu.cn/turingclass_en/)**, **[Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)**, **[Zhejiang University](https://www.zju.edu.cn/english/)**, majoring in Artificial Intelligence. Currently, I work in the **Audio Research Team** at Zhejiang University, under the supervision of **[Prof. Zhou Zhao](https://person.zju.edu.cn/en/zhaozhou)**.
 
 My research interests primarily focus on **NLP** and **Multi-Modal Generative AI**, specifically in **Speech** and **Spatial Audio**. I have two papers submitted to **[ACL 2026](https://2026.aclweb.org/)**. At the same time, I am eagerly looking forward to exploring other interesting research fields in AI.
 
@@ -45,6 +45,7 @@ My research interests primarily focus on **NLP** and **Multi-Modal Generative AI
 # 🎖 Honors and Awards
 - *2024* First-class Scholarship in Zhejiang University
 - *2025* Second-class Scholarship in Zhejiang University
+- *2025* National Student Research Training Program
 
 # 📖 Educations
 - *2023.8 - now* Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy
@@ -52,4 +53,4 @@ My research interests primarily focus on **NLP** and **Multi-Modal Generative AI
 
 # 💻 Internships
 - *2024.4 - 2025.12* Research Assisant in Audio Research Team at Zhejiang University . **Advisor: Prof. Zhou Zhao (赵洲)(https://person.zju.edu.cn/en/zhaozhou)**.
-- *2026.1 - now* Luna Lab, Hangzhou
+- *2026.1 - now* MLE Intern Algorithm Luna Lab, Hangzhou
