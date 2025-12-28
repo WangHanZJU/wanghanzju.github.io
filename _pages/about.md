@@ -17,11 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a undergraduate student at Turing Class, Chu Kochen Honors College, Zhejiang University, majoring in Artificial Intelligence. Currently I work on the Audio Research Team at Zhejiang University, under the supervision of Prof. Zhou Zhao. 
+I am an undergraduate student at **[Turing Class](http://www.cs.zju.edu.cn/turingclass_en/)**, **[Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)**, **[Zhejiang University](https://www.zju.edu.cn/english/)**, majoring in Artificial Intelligence. Currently, I work in the **[Audio Research Team]** at Zhejiang University, under the supervision of **[Prof. Zhou Zhao](https://person.zju.edu.cn/en/zhaozhou)**.
 
-My research interests primarily focus on NLP and Multi-Modal Generative AI, specifically in Speech and Spatial Audio. I have two papers submitted to ACL 2026. And I'm at the same time looking forward to exploring more research fields in AI.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests primarily focus on **NLP** and **Multi-Modal Generative AI**, specifically in **Speech** and **Spatial Audio**. I have two papers submitted to **[ACL 2026](https://2026.aclweb.org/)**. At the same time, I am eagerly looking forward to exploring other interesting research fields in AI.
 
 
 # 🔥 News
@@ -53,4 +51,5 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 💻 Internships
-- *2024.4 - 2025.12* Yiwise, Hangzhou
+- *2024.4 - 2025.12* Research Assisant in Audio Research Team at Zhejiang University . **Advisor: Prof. Zhou Zhao (赵洲)(https://person.zju.edu.cn/en/zhaozhou)**.
+- *2026.1 - now* Luna Lab, Hangzhou
