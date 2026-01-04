@@ -41,10 +41,10 @@ I am always open to potential collaborations and seeking opportunities to push t
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/aoe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/vocoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Benchmarking Long-Form Speech Generation with Rich Scenarios and Comprehensive Evaluation](images/aoe.png)
+[Benchmarking Long-Form Speech Generation with Rich Scenarios and Comprehensive Evaluation](images/vocoder.png)
 
 #Changhao Pan, #Rui Yang, **#Han Wang**, et al.
 
