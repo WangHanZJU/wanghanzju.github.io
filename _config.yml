@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Han Wan(汪涵) | Hanz"
-description              : "Undergraduate at Zhejiang University, AI Researcher."
+description              : "Undergraduate at Zhejiang University."
 repository               : "WangHanZJU/hanz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,8 +27,8 @@ author:
   location         : "Zhejiang, China"
   employer         :
   pubmed           : 
-  googlescholar    : "JSeLOUwAAAAJ"
-  email            : "wanghanzju@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=JSeLOUwAAAAJ&hl=zh-CN"
+  email            : "wanghan3@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

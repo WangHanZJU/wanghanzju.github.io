@@ -19,7 +19,7 @@ redirect_from:
 
 I am an undergraduate student at **[Turing Class](http://www.cs.zju.edu.cn/turingclass_en/)**, **[Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)**, **[Zhejiang University](https://www.zju.edu.cn/english/)**, majoring in Artificial Intelligence. Currently, I work in the **Audio Research Team** at Zhejiang University, under the supervision of **[Prof. Zhou Zhao](https://person.zju.edu.cn/en/zhaozhou)**.
 
-My research interests lie at the intersection of **NLP** and **Multi-Modal Generative AI**, with a particular focus on **Speech Synthesis** and **Spatial Audio Generation**. My work aims to build immersive auditory experiences through advanced generative modeling (e.g., Flow Matching). Currently, I have several papers published or under review at top-tier venues including **NeurIPS,** **ACM MM**, and **ACL**.
+My research interest lies on **Multi-Modal Generative AI**, with a particular focus on **Speech Synthesis** and **Spatial Audio Generation**. My work aims to build immersive auditory experiences through advanced generative modeling (e.g., Flow Matching). Currently, I have several papers published or under review at top-tier venues including **NeurIPS,** **ACM MM**, and **ACL**.
 
 I am always open to potential collaborations and seeking opportunities to push the boundaries of AI. Contact me for any exciting projects or discussions!
 
@@ -29,26 +29,27 @@ I am always open to potential collaborations and seeking opportunities to push t
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/vocoder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026(Under Review)</div><img src='images/vocoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[UFMSAVocoder: a Unified Flow-Matching Spatial Audio Vocoder](images/vocoder.png)
+[CSAVocoder: A Causal Spatial Audio Vocoder Towards Real-Time Spatial Audio Generation](images/article_csavocoder.pdf)
 
 #Zhiyuan Zhu, **#Han Wang**, et al.
 
-- a univeral vocoder using flow-matching method for spatial audio generation, achieving superior performance in both ambisonics and binaural audio generation
+- We introduce **CSAVocoder**, a strictly causal streaming neural vocoder. It features a Spatial Adaptor to fuse pose information and a Spatial Consistency Discriminator to explicitly supervise inter-channel phase and level differences.
+- The model achieves high-fidelity waveform reconstruction while preserving precise spatial rendering, all within a constant memory overhead suitable for real-time streaming.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/aoe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026(Under Review)</div><img src='images/aoe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Benchmarking Long-Form Speech Generation with Rich Scenarios and Comprehensive Evaluation](images/aoe.png)
+[Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios](images/article_aoe.pdf)
 
 #Changhao Pan, #Rui Yang, **#Han Wang**, et al.
 
-- a bench driving forward the field of long-form speech generation
+- We propose **LFS-Bench**, a standardized benchmark decomposing "long-form quality" into acoustics, semantics, and expressiveness. It includes 1,101 samples spanning 17 diverse scenarios (e.g., dialogues, audiobooks).
 </div>
 </div>
 
