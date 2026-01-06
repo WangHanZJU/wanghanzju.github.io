@@ -50,6 +50,7 @@ I am always open to potential collaborations and seeking opportunities to push t
 #Changhao Pan, #Rui Yang, **#Han Wang**, et al.
 
 - We propose **LFS-Bench**, a standardized benchmark decomposing "long-form quality" into acoustics, semantics, and expressiveness. It includes 1,101 samples spanning 17 diverse scenarios (e.g., dialogues, audiobooks).
+- Our extensive experiments reveal that current SOTA models still struggle significantly with consistency and hierarchy in highly expressive scenarios compared to real recordings.
 </div>
 </div>
 
