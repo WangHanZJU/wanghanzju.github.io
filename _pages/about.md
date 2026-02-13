@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,19 +17,32 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at **[Turing Class](http://www.cs.zju.edu.cn/turingclass_en/)**, **[Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)**, **[Zhejiang University](https://www.zju.edu.cn/english/)**, majoring in Artificial Intelligence. Currently, I work in the **Audio Research Team** at Zhejiang University, under the supervision of **[Prof. Zhou Zhao](https://person.zju.edu.cn/en/zhaozhou)**.
+> Building multimodal generative audio systems for more immersive listening experiences.
 
-My research interest lies on **Multi-Modal Generative AI**, with a particular focus on **Speech Synthesis** and **Spatial Audio Generation**. My work aims to build immersive auditory experiences through advanced generative modeling (e.g., Flow Matching). Currently, I have several papers published or under review at top-tier venues including **NeurIPS,** **ACM MM**, and **ACL**.
+**Focus:** `Multi-Modal Generative AI` · `Speech Synthesis` · `Spatial Audio`
 
-I am always open to potential collaborations and seeking opportunities to push the boundaries of AI. Contact me for any exciting projects or discussions!
+I am an undergraduate student at **[Turing Class](http://www.cs.zju.edu.cn/turingclass_en/)**, **[Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)**, **[Zhejiang University](https://www.zju.edu.cn/english/)**, majoring in Artificial Intelligence. I currently work in the **Audio Research Team** at Zhejiang University, under the supervision of **[Prof. Zhou Zhao](https://person.zju.edu.cn/en/zhaozhou)**.
+
+My research interest lies in **Multi-Modal Generative AI**, with a particular focus on **Speech Synthesis** and **Spatial Audio Generation**. My work aims to build immersive auditory experiences through advanced generative modeling (e.g., Flow Matching). I have papers published or under review at top-tier venues including **NeurIPS**, **ACM MM**, and **ACL**.
+
+I am always open to potential collaborations and opportunities. Feel free to reach out.
+
+**Contact:** [Email](mailto:wanghan3@zju.edu.cn) · [Google Scholar](https://scholar.google.com/citations?user=JSeLOUwAAAAJ&hl=zh-CN) · [GitHub](https://github.com/WangHanZJU)
 
 # 🔥 News
-- *2026.1* &nbsp;🎉🎉 Started my internship at Luna Lab（宇生月伴）as a text-to-speech model researcher!
-- *2025.12*: &nbsp;🎉🎉 Submitted two papers to **[ACL 2026](https://2026.aclweb.org/)**
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">2026.01</div>
+    <div class="timeline-content">🎉 Started my internship at <a href="https://vuilabs.cn/">Luna Lab（宇生月伴）</a> as a text-to-speech model researcher.</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2025.12</div>
+    <div class="timeline-content">🎉 Submitted two papers to <strong><a href="https://2026.aclweb.org/">ACL 2026</a></strong>.</div>
+  </div>
+</div>
 
-
-# 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026(Under Review)</div><img src='images/vocoder.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/vocoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CSAVocoder: A Causal Spatial Audio Vocoder Towards Real-Time Spatial Audio Generation](images/article_csavocoder.pdf)
@@ -41,8 +54,7 @@ I am always open to potential collaborations and seeking opportunities to push t
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026(Under Review)</div><img src='images/aoe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/aoe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios](images/article_aoe.pdf)
@@ -62,10 +74,9 @@ I am always open to potential collaborations and seeking opportunities to push t
 - *2025* Second-class Scholarship in Zhejiang University
 - *2025* National Student Research Training Program
 
-# 📖 Educations
-- *2023.8 - now* Undergraduate, Chu Kochen Honors College, Zhejiang Univeristy
-
+# 📖 Education
+- *2023.08 - Present* Undergraduate, Chu Kochen Honors College, Zhejiang University
 
 # 💻 Internships
-- *2024.4 - 2025.12* Research Assisant in Audio Research Team at Zhejiang University . **Advisor: Prof. Zhou Zhao [赵洲](https://person.zju.edu.cn/en/zhaozhou)**.
-- *2026.1 - now* MLE Intern Algorithm Luna Lab, Hangzhou(https://vuilabs.cn/)
+- *2024.04 - 2025.12* Research Assistant in Audio Research Team at Zhejiang University. **Advisor: Prof. Zhou Zhao [赵洲](https://person.zju.edu.cn/en/zhaozhou)**.
+- *2026.01 - Present* MLE Intern (TTS), [Luna Lab](https://vuilabs.cn/), Hangzhou.
