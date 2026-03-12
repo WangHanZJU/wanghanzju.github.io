@@ -33,5 +33,43 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script>
+    (function() {
+      var container = document.getElementById('typewriter-slogan');
+      if (!container) return;
+      var blockquote = container.querySelector('blockquote');
+      if (!blockquote) return;
+      var paragraph = blockquote.querySelector('p');
+      if (!paragraph) return;
+
+      var fullText = paragraph.textContent;
+      paragraph.textContent = '';
+
+      var cursor = document.createElement('span');
+      cursor.className = 'typewriter-cursor';
+      paragraph.after(cursor);
+
+      var charIndex = 0;
+      function typeNext() {
+        if (charIndex < fullText.length) {
+          paragraph.textContent += fullText.charAt(charIndex);
+          charIndex++;
+          setTimeout(typeNext, 55);
+        } else {
+          setTimeout(function() {
+            cursor.classList.add('fade-out');
+            setTimeout(function() { cursor.style.display = 'none'; }, 1800);
+          }, 600);
+        }
+      }
+
+      if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', typeNext);
+      } else {
+        typeNext();
+      }
+    })();
+    </script>
+
   </body>
 </html>
