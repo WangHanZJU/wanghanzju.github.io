@@ -69,11 +69,15 @@ I am always open to potential collaborations and opportunities. Feel free to rea
 </div>
 
 <div class='paper-box'><div class='paper-box-text' markdown="1">
-[A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference] Changhao Pan, Wenxiang Guo, Yu Zhang, Zhiyuan Zhu, Zhetao Chen, **Han Wang**, Zhou Zhao **ACM MM 2025**
+[A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference]
+
+Changhao Pan, Wenxiang Guo, Yu Zhang, Zhiyuan Zhu, Zhetao Chen, **Han Wang**, Zhou Zhao **ACM MM 2025**
 </div></div>
 
 <div class='paper-box'><div class='paper-box-text' markdown="1">
-[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations] Wenxiang Guo, Changhao Pan, Zhiyuan Zhu, Xintong Hu, Yu Zhang, Li Tang, Rui Yang, **Han Wang**, et al. **NeurIPS 2025**
+[MRSAudio: A Large-Scale Multimodal Recorded Spatial Audio Dataset with Refined Annotations]
+
+Wenxiang Guo, Changhao Pan, Zhiyuan Zhu, Xintong Hu, Yu Zhang, Li Tang, Rui Yang, **Han Wang**, et al. **NeurIPS 2025**
 </div></div>
 
 # 🎖 Honors and Awards
