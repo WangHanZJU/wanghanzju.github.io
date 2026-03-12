@@ -384,3 +384,25 @@ $scroll_offset: 5rem;
   letter-spacing: 0.02em;
   z-index: 2;
 }
+
+.site-footer {
+  margin-top: 3rem;
+  padding: 1.8rem 1rem;
+  border-top: 1px solid $border-color;
+  text-align: center;
+  font-size: 0.82rem;
+  color: #9ca3af;
+
+  p {
+    margin: 0;
+  }
+
+  a {
+    color: #9ca3af;
+    text-decoration: none;
+
+    &:hover {
+      color: #6b7280;
+    }
+  }
+}
