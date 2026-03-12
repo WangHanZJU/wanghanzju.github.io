@@ -18,9 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div id="typewriter-slogan">
-
-> Building multimodal generative audio systems for more immersive listening experiences.
-
+<blockquote><p>Building multimodal generative audio systems for more immersive listening experiences.</p></blockquote>
 </div>
 
 **Focus:** `Multi-Modal Generative AI` · `Speech Synthesis` · `Spatial Audio`
