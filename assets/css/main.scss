@@ -70,7 +70,13 @@ body {
   padding: 0.65rem 1rem;
 }
 
+.masthead__menu {
+  display: flex;
+  align-items: center;
+}
+
 .greedy-nav {
+  flex: 1;
   background: transparent;
 
   a {
