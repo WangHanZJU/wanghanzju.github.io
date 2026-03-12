@@ -358,6 +358,10 @@ body {
       max-width: 62%;
       padding-left: 0;
     }
+
+    &:not(:has(.paper-box-image)) .paper-box-text {
+      max-width: 100%;
+    }
   }
 }
 
