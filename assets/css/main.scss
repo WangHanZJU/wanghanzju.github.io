@@ -99,6 +99,12 @@ body {
     border-radius: 999px;
     transform: translateY(-50%);
     background-color: #111827;
+
+    .navicon,
+    .navicon:before,
+    .navicon:after {
+      background: #ffffff;
+    }
   }
 
   .visible-links a:before {
@@ -504,7 +510,15 @@ $scroll_offset: 5rem;
 
     .visible-links a:before { background: #f5f5f7; }
 
-    button { background-color: #f5f5f7; }
+    button {
+      background-color: #f5f5f7;
+
+      .navicon,
+      .navicon:before,
+      .navicon:after {
+        background: #1c1c1e;
+      }
+    }
 
     .hidden-links {
       background: #2c2c2e;
