@@ -40,6 +40,10 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
+::selection {
+  background: rgba(0, 122, 255, 0.2);
+}
+
 :root {
   color-scheme: light;
 }
