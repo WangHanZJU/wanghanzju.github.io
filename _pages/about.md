@@ -29,8 +29,6 @@ My research interest lies in **Multi-Modal Generative AI**, with a particular fo
 
 I am always open to potential collaborations and opportunities. Feel free to reach out.
 
-**Contact:** [Email](mailto:wanghan3@zju.edu.cn) · [Google Scholar](https://scholar.google.com/citations?user=JSeLOUwAAAAJ&hl=zh-CN) · [GitHub](https://github.com/WangHanZJU)
-
 # 🔥 News
 <div class="timeline">
   <div class="timeline-item">
@@ -89,5 +87,5 @@ Wenxiang Guo, Changhao Pan, Zhiyuan Zhu, Xintong Hu, Yu Zhang, Li Tang, Rui Yang
 - *2023.08 - Present* Undergraduate, Chu Kochen Honors College, Zhejiang University
 
 # 💻 Internships
-- *2024.04 - 2025.12* Research Assistant in Audio Research Team at Zhejiang University. **Advisor: Prof. Zhou Zhao [赵洲](https://person.zju.edu.cn/en/zhaozhou)**.
-- *2026.01 - Present* MLE Intern (TTS), [Luna Lab](https://vuilabs.cn/), Hangzhou.
+- *2024.04 – 2025.12* Research Assistant, Audio Research Team, Zhejiang University. Under the supervision of [Prof. Zhou Zhao](https://scholar.google.com/citations?user=IIoFY90AAAAJ&hl=zh-CN&oi=ao).
+- *2026.01 – Present* MLE Intern (TTS), VUI Lab, Hangzhou. Mentored by [Mengxiao Bi](https://scholar.google.com/citations?hl=en&user=BIU0dm4AAAAJ) under the supervision of [Prof. Yanmin Qian](https://scholar.google.com/citations?hl=en&user=guG9lxgAAAAJ).
