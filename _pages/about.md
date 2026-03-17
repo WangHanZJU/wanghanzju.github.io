@@ -87,5 +87,5 @@ Wenxiang Guo, Changhao Pan, Zhiyuan Zhu, Xintong Hu, Yu Zhang, Li Tang, Rui Yang
 - *2023.08 - Present* Undergraduate, Chu Kochen Honors College, Zhejiang University
 
 # 💻 Internships
-- *2024.04 – 2025.12* Research Assistant, Audio Research Team, Zhejiang University. Under the supervision of [Prof. Zhou Zhao](https://scholar.google.com/citations?user=IIoFY90AAAAJ&hl=zh-CN&oi=ao).
-- *2026.01 – Present* MLE Intern (TTS), VUI Lab, Hangzhou. Mentored by [Mengxiao Bi](https://scholar.google.com/citations?hl=en&user=BIU0dm4AAAAJ) under the supervision of [Prof. Yanmin Qian](https://scholar.google.com/citations?hl=en&user=guG9lxgAAAAJ).
+- *2024.04 – 2025.12* Research Assistant, Audio Research Team, Zhejiang University. Under the supervision of<br>**[Prof. Zhou Zhao](https://scholar.google.com/citations?user=IIoFY90AAAAJ&hl=zh-CN&oi=ao)**.
+- *2026.01 – Present* MLE Intern (TTS), VUI Lab, Hangzhou. Mentored by<br>**[Mengxiao Bi](https://scholar.google.com/citations?hl=en&user=BIU0dm4AAAAJ)**<br>under the supervision of<br>**[Prof. Yanmin Qian](https://scholar.google.com/citations?hl=en&user=guG9lxgAAAAJ)**.
