@@ -32,29 +32,17 @@ I am always open to potential collaborations and opportunities. Feel free to rea
 # 🔥 News
 <div class="timeline">
   <div class="timeline-item">
-    <div class="timeline-date">2026.01</div>
-    <div class="timeline-content">🎉 Started my internship at <a href="https://vuilabs.cn/">Luna Lab（宇生月伴）</a> as a text-to-speech model researcher.</div>
+    <div class="timeline-date">2026.04</div>
+    <div class="timeline-content">🎉 One paper accepted by <strong><a href="https://2026.aclweb.org/">ACL 2026 Findings</a></strong>.</div>
   </div>
   <div class="timeline-item">
-    <div class="timeline-date">2025.12</div>
-    <div class="timeline-content">🎉 Submitted two papers to <strong><a href="https://2026.aclweb.org/">ACL 2026</a></strong>.</div>
+    <div class="timeline-date">2026.01</div>
+    <div class="timeline-content">🎉 Started my internship at <a href="https://vuilabs.cn/">Luna Lab（宇生月伴）</a> as a text-to-speech model researcher.</div>
   </div>
 </div>
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/vocoder.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CSAVocoder: A Causal Spatial Audio Vocoder Towards Real-Time Spatial Audio Generation](images/article_csavocoder.pdf)
-
-#Zhiyuan Zhu, **#Han Wang**, et al.
-
-- We introduce **CSAVocoder**, a strictly causal streaming neural vocoder. It features a Spatial Adaptor to fuse pose information and a Spatial Consistency Discriminator to explicitly supervise inter-channel phase and level differences.
-- The model achieves high-fidelity waveform reconstruction while preserving precise spatial rendering, all within a constant memory overhead suitable for real-time streaming.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 (Under Review)</div><img src='images/aoe.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/aoe.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios](images/article_aoe.pdf)
@@ -63,6 +51,18 @@ I am always open to potential collaborations and opportunities. Feel free to rea
 
 - We propose **LFS-Bench**, a standardized benchmark decomposing "long-form quality" into acoustics, semantics, and expressiveness. It includes 1,101 samples spanning 17 diverse scenarios (e.g., dialogues, audiobooks).
 - Our extensive experiments reveal that current SOTA models still struggle significantly with consistency and hierarchy in highly expressive scenarios compared to real recordings.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/vocoder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CSAVocoder: A Causal Spatial Audio Vocoder Towards Real-Time Spatial Audio Generation](images/article_csavocoder.pdf)
+
+#Zhiyuan Zhu, **#Han Wang**, et al.
+
+- We introduce **CSAVocoder**, a strictly causal streaming neural vocoder. It features a Spatial Adaptor to fuse pose information and a Spatial Consistency Discriminator to explicitly supervise inter-channel phase and level differences.
+- The model achieves high-fidelity waveform reconstruction while preserving precise spatial rendering, all within a constant memory overhead suitable for real-time streaming.
 </div>
 </div>
 
