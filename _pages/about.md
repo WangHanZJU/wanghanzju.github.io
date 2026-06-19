@@ -25,15 +25,19 @@ redirect_from:
 
 I am an undergraduate student at **[Turing Class](http://www.cs.zju.edu.cn/turingclass_en/)**, **[Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)**, **[Zhejiang University](https://www.zju.edu.cn/english/)**, majoring in Artificial Intelligence. I currently work in the **Audio Research Team** at Zhejiang University, under the supervision of **[Prof. Zhou Zhao](https://person.zju.edu.cn/en/zhaozhou)**.
 
-My research interest lies in **Multi-Modal Generative AI**, with a particular focus on **Speech Synthesis** and **Spatial Audio Generation**. My work aims to build immersive auditory experiences through advanced generative modeling (e.g., Flow Matching). I have papers published or under review at top-tier venues including **NeurIPS**, **ACM MM**, and **ACL**.
+My research interest lies in **Multi-Modal Generative AI**, with a particular focus on **Speech Synthesis** and **Spatial Audio Generation**. My work aims to build immersive auditory experiences through advanced generative modeling (e.g., Flow Matching). I have papers published or under review at top-tier venues including **NeurIPS**, **ACM MM**, **ACL**, and **EMNLP**.
 
 I am always open to potential collaborations and opportunities. Feel free to reach out.
 
 # 🔥 News
 <div class="timeline">
   <div class="timeline-item">
+    <div class="timeline-date">2026.06</div>
+    <div class="timeline-content">📝 One paper submitted to <strong>EMNLP 2026</strong>.</div>
+  </div>
+  <div class="timeline-item">
     <div class="timeline-date">2026.04</div>
-    <div class="timeline-content">🎉 One paper accepted by <strong><a href="https://2026.aclweb.org/">ACL 2026 Findings</a></strong>.</div>
+    <div class="timeline-content">🎉 One dataset paper accepted by <strong><a href="https://2026.aclweb.org/">ACL 2026 Findings</a></strong>.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2026.01</div>
@@ -54,7 +58,7 @@ I am always open to potential collaborations and opportunities. Feel free to rea
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/vocoder.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to EMNLP 2026</div><img src='images/vocoder.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CSAVocoder: A Causal Spatial Audio Vocoder Towards Real-Time Spatial Audio Generation](images/article_csavocoder.pdf)
