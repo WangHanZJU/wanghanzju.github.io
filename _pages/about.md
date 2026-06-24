@@ -17,10 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div id="typewriter-slogan">
-<blockquote><p>Building multimodal generative audio systems for more immersive listening experiences.</p></blockquote>
-</div>
-
 **Focus:** `Multi-Modal Generative AI` · `Speech Synthesis` · `Spatial Audio`
 
 I am an undergraduate student at **[Turing Class](http://www.cs.zju.edu.cn/turingclass_en/)**, **[Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/)**, **[Zhejiang University](https://www.zju.edu.cn/english/)**, majoring in Artificial Intelligence. I currently work in the **Audio Research Team** at Zhejiang University, under the supervision of **[Prof. Zhou Zhao](https://person.zju.edu.cn/en/zhaozhou)**.

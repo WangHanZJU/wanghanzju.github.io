@@ -405,35 +405,6 @@ $scroll_offset: 5rem;
   z-index: 2;
 }
 
-/* Typewriter cursor */
-#typewriter-slogan blockquote {
-  position: relative;
-  min-height: 1.5em;
-}
-
-#typewriter-slogan blockquote p {
-  display: inline;
-}
-
-#typewriter-slogan .typewriter-cursor {
-  display: inline-block;
-  width: 2px;
-  height: 1.1em;
-  background-color: #374151;
-  margin-left: 2px;
-  vertical-align: text-bottom;
-  animation: typewriter-blink 0.6s step-end infinite;
-}
-
-#typewriter-slogan .typewriter-cursor.fade-out {
-  animation: typewriter-blink 0.6s step-end 3 forwards;
-}
-
-@keyframes typewriter-blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
-
 .site-footer {
   margin-top: 3rem;
   padding: 1.8rem 1rem;
